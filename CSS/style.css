@@ -4,6 +4,10 @@
    box-sizing: border-box;
 }
 
+*::selection {
+    background: black;
+}
+
 body {
     font-family: cursive;
 }
