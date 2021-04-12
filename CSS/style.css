@@ -63,7 +63,7 @@ ul {
 .header__title {
     font-size: 100px;
     color: #fff;
-    text-shadow: 10px 10px 5px red;
+    text-shadow: 10px 10px 5px red, -10px -10px 5px yellow;
     display: flex;
     flex-grow: 1;
     justify-content: center;
